@@ -18,6 +18,8 @@ public:
     ~MainWindow() override;
 
 
+private slots:
+
 private:
     Ui::MainWindow *ui;
 };

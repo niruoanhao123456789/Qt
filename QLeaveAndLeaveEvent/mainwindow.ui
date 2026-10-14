@@ -17,8 +17,8 @@
    <widget class="Label" name="label">
     <property name="geometry">
      <rect>
-      <x>220</x>
-      <y>140</y>
+      <x>230</x>
+      <y>40</y>
       <width>201</width>
       <height>81</height>
      </rect>
@@ -27,7 +27,7 @@
      <enum>QFrame::Shape::Box</enum>
     </property>
     <property name="text">
-     <string>这是一个Lable</string>
+     <string>请V我50</string>
     </property>
    </widget>
   </widget>

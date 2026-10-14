@@ -10,8 +10,8 @@ class Label : public QLabel
 public:
     Label(QWidget *parent = nullptr);
 
-    void enterEvent(QEnterEvent* event) ;
-    void leaveEvent(QEvent* event) ;
+    void leaveEvent(QEvent*) ;
+    void enterEvent(QEnterEvent* );
 };
 
 #endif // LABEL_H
